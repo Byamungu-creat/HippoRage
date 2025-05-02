@@ -9,7 +9,7 @@
 - **Total Supply**: 690,000,000,000 RAGE  
 - **Decimals**: 18  
 - **Blockchain**: Binance Smart Chain (BEP-20)  
-- **Contract Address**: 0xF509F37d52D7eb451bb677B1254781d74FB109Fc
+- **Contract Address**: 0x3f9a529aDe218fC6a9dC73A4140Ae5565feA28c9
 
 ## ⚙️ Features
 
